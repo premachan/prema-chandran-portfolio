@@ -1,0 +1,14 @@
+{
+  "name": "Prema Chandran Portfolio",
+  "short_name": "Prema Portfolio",
+  "description": "Portfolio of Prema Chandran MB, Junior .NET Developer and Research & Developer.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f7f7fb",
+  "theme_color": "#7c5cff",
+  "icons": [
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
