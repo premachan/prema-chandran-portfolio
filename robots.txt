@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://premachandran.pages.dev/sitemap.xml
+Sitemap: https://premachan.github.io/prema-chandran-portfolio/sitemap.xml

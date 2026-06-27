@@ -1,7 +1,7 @@
 # SEO Deployment Checklist for Prema Chandran Portfolio
 
 ## Before Hosting
-- Replace all `https://premachandran.pages.dev/` URLs in `index.html`, `robots.txt`, `sitemap.xml`, and `manifest.json` with your final live URL if Cloudflare gives a different URL.
+- Replace all `https://premachan.github.io/prema-chandran-portfolio/` URLs in `index.html`, `robots.txt`, `sitemap.xml`, and `manifest.json` with your final live URL if Cloudflare gives a different URL.
 - Upload all files including `robots.txt`, `sitemap.xml`, `manifest.json`, `_headers`, and the `assets` folder.
 
 ## After Hosting

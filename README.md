@@ -21,7 +21,7 @@ A modern, premium, light-themed personal portfolio built with plain **HTML, CSS,
 The current placeholder live URL is:
 
 ```text
-https://premachandran.pages.dev/
+https://premachan.github.io/prema-chandran-portfolio/
 ```
 
 After you host the site, replace this URL everywhere if your actual hosting URL is different:
@@ -47,7 +47,7 @@ Open `index.html` in any modern browser, or host the folder on Cloudflare Pages,
 Replace the placeholder block in `index.html` inside `.photo-inner` with:
 
 ```html
-<img src="assets/profile.jpg" alt="Prema Chandran MB - Junior .NET Developer" width="400" height="400" loading="eager" style="width:100%;height:100%;object-fit:cover" />
+<img src="assets/profile.jpg" alt="Prema Chandran MB - Research and Developer" width="400" height="400" loading="eager" style="width:100%;height:100%;object-fit:cover" />
 ```
 
 Then add your image at:
